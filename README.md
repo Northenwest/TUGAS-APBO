@@ -38,3 +38,5 @@ untuk mencegah penyebaran penyakit.
 # Class Diagram
 ![ClassDiagram drawio](https://github.com/Northenwest/TUGAS-APBO/assets/112705798/e14707a4-da15-4625-bccb-12d87729972d)
 
+# ERD
+![ERD drawio](https://github.com/Northenwest/TUGAS-APBO/assets/112705798/0439baf5-f7bc-4d39-a102-9b11fa314a0f)
