@@ -31,3 +31,10 @@ untuk mencegah penyebaran penyakit.
 1. Orang Tua / Wali
 2. Staf Daycare
 3. Admin
+
+# Use Case
+![UseCaseDiagram drawio](https://github.com/Northenwest/TUGAS-APBO/assets/112705798/a108c137-71a6-478c-a74a-729b53a9a5da)
+
+# Class Diagram
+![ClassDiagram drawio](https://github.com/Northenwest/TUGAS-APBO/assets/112705798/e14707a4-da15-4625-bccb-12d87729972d)
+
